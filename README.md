@@ -22,6 +22,6 @@ $ gem list
 
 You can check that your application runs properly by entering the command:
 ```
-$ rails server
+$ bundle exec rails server
 ```
 To see your application in action, open a browser window and navigate to http://localhost:3000/.
