@@ -1,0 +1,17 @@
+
+<div class="container">
+    <div class="row">
+      <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <center>
+
+            <% @items.each do |item| %>
+                <h2><%= link_to item.title, item %></h2>
+                <p><%=	item.description %></p>
+            <% end %>
+
+          </center>
+        </div>
+      <div class="col-sm-3"></div>
+    </div>
+</div>
