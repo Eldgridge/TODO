@@ -1,6 +1,6 @@
 # Getting started
 
-See the article Installing Rails to make sure your development environment is prepared properly.
+See the article Installing Rails [Sites Using React](https://github.com/facebook/react/wiki/Sites-Using-React) to make sure your development environment is prepared properly.
 
 Use RVM
 
