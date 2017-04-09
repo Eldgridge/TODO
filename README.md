@@ -11,9 +11,11 @@ I recommend using [rvm](https://rvm.io/), the Ruby Version Manager, to create a 
 If you used the Rails Composer tool to generate the example app, the application template script has already run the bundle install command.
 
 If not, you should run the bundle install command to install the required gems on your computer:
-
+```
 $ bundle install
+```
 You can check which gems are installed on your computer with:
-
+```
 $ gem list
-Keep in mind that you have installed these gems locally. When you deploy the app to another server, the same gems (and versions) must be available.
+```
+
